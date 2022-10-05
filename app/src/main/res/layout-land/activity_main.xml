@@ -8,11 +8,11 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/helloWorldTV"
+        android:id="@+id/helloWorldBtn"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        android:text="Hello World!"
+        android:text="Move to 2"
         />
 
     <fragment
