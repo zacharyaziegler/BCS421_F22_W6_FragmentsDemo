@@ -27,4 +27,5 @@
     android:layout_weight="5"
     class="edu.farmingdale.bcs421.bcs421_f22_w6_fragmentsdemo.Fragment01"
 />
+
 </LinearLayout>

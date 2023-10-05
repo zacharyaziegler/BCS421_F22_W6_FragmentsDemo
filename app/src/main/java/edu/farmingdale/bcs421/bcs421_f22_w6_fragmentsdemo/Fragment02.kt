@@ -25,7 +25,7 @@ class Fragment02 : Fragment(R.layout.fragment_02) {
         val btn = view.findViewById<Button>(R.id.fgBtn1);
 
         btn.setOnClickListener{
-            view.findViewById<TextView>(R.id.fgTv1).setText("Moaath Alrajab")
+            view.findViewById<TextView>(R.id.fgTv1).setText("Zach Ziegler")
         }
         return view
     }
